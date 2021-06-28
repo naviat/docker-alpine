@@ -28,7 +28,7 @@ No prequisites required
 
 # Installation
 
-Automated builds of the image are available on [Docker Hub](https://hub.docker.com/t/naviat/alpine) and is the recommended method of installation.
+Automated builds of the image are available on [Docker Hub](https://hub.docker.com/repository/docker/naviat/alpine) and is the recommended method of installation.
 
 
 ```bash
